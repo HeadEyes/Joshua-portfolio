@@ -21,26 +21,21 @@ const skills = [
     },
     {
         id: 4,
-        title: "PHP",
-        icon: <FaPhp />
-    },
-    {
-        id: 5,
         title: "Git",
         icon: <FaGitAlt />
     },
     {
-        id: 6,
+        id: 5,
         title: "SQL",
         icon: <BsFiletypeSql />
     },
     {
-        id: 7,
+        id: 6,
         title: "TypeScript",
         icon: <SiTypescript />
     },
     {
-        id: 8,
+        id: 7,
         title: "Tailwind",
         icon: <SiTailwindcss />
     },
