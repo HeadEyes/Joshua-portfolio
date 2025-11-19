@@ -1,0 +1,11 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="50" cy="50" r="50" fill="#5cc600"/>
+  
+  <g fill="#000000" font-family="Arial, sans-serif" font-size="45" font-weight="bold" text-anchor="middle" dominant-baseline="central">
+    
+    <path d="M 33 25 L 33 65 C 33 75 40 78 48 78 C 56 78 63 75 63 65 L 63 60 L 53 60 L 53 65 C 53 69 50 71 48 71 C 46 71 43 69 43 65 L 43 25 Z" transform="translate(-10, 0)"/>
+    
+    <path d="M 57 25 L 57 75 L 67 75 L 67 25 L 57 25 M 67 25 C 75 25 80 30 80 38 C 80 46 75 51 67 51 L 57 51 L 57 25" transform="translate(10, 0)"/>
+    
+  </g>
+</svg>
